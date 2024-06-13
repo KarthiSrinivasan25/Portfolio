@@ -14,7 +14,7 @@ public class SendEmailServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         
         final String username = "karthikeyan25082000@gmail.com";
-        final String password = "qtgknrgpovmiydqu";
+        final String password = "****************";
 
         
         String to = "karthikeyansrini25@gmail.com";
