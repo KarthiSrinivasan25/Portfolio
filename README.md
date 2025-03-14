@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! 🚀 This portfolio showcases my skill
 
 🔗 Live Demo
 
-karthikeyanportfolio.helioho.st
+[Karthikeyan S - Portfolio](https://karthikeyanportfolio.helioho.st/)
 
 
 📌 Features
